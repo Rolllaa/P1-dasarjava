@@ -1,4 +1,4 @@
-public class H_LiteralNumber {
+public class H_Literalnumber {
     public static void main(String[] args) {
         int distance = 25;
         final long MM_TO_KM = 1000000L;
